@@ -34,13 +34,13 @@ body {
   text-align: center;
   display: flex;
   font-size: 1.5em;
-  color: rgb(88 199 250 / 0%);
+  color: rgb(153, 153, 255);
   cursor: pointer;
   font-family: cursive;
 }
 
 .card:hover {
-  color: rgb(88 199 250 / 100%);
+  color: rgb(255 255 250 / 100%);
   transition: color 1s;
 }
 .card:hover:before, .card:hover:after {
